@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "when": "Nov 2008",
+    "name": "OWASP European Summit",
+    "where": "Algarve, Portugal · in person",
+    "kind": "inperson",
+    "summary": "About 80 OWASP leaders. Two days of tracks and project workshops, then two days of open working sessions to set the 2009 agenda. Where the working-session format starts."
+  },
+  {
+    "when": "Feb 2011",
+    "name": "OWASP Global Summit",
+    "where": "Lisbon, Portugal · in person",
+    "kind": "inperson",
+    "summary": "About 175 people from 20+ countries, four days, \"designed in a working session style format\": parallel working tracks, no vendor booths, no lecture-only talks."
+  },
+  {
+    "when": "12–16 Jun 2017",
+    "name": "OWASP Summit 2017",
+    "where": "Woburn Forest Center Parcs, near London · in person",
+    "kind": "inperson",
+    "summary": "Five days, 16 tracks, over 170 working sessions and 200+ participants, in person and remote, in shared villas. Its best-known outcome is the Mobile Security Testing Guide.",
+    "url": "https://diniscruz.ai/2025/06/07/history-and-analysis-of-owasp-in-person-summits.html",
+    "url_label": "History of the summits"
+  },
+  {
+    "when": "4–8 Jun 2018",
+    "name": "Open Security Summit 2018",
+    "where": "Woburn Forest Center Parcs, England · in person",
+    "kind": "inperson",
+    "summary": "The first Open Security Summit: the 2017 format, broadened from OWASP to security in general. Keynotes from Adam Shostack, Simon Wardley, Jane Frankland and others, and a one-day summit on 3 July.",
+    "facts": ["About 300 sessions on the site, 129 of them working sessions", "143 participants on site, 69 remote", "194 outcome pages"],
+    "url": "https://2018.open-security-summit.org/",
+    "url_label": "2018 site"
+  },
+  {
+    "when": "3–7 Jun 2019",
+    "name": "Open Security Summit 2019",
+    "where": "Woburn Forest Center Parcs, England · in person",
+    "kind": "inperson",
+    "summary": "The second week at Woburn, with keynotes on SAMM v2, the MSTG, Juice Shop, ZAP, Cynefin and Wardley maps. The year Open Security Summit CIC was incorporated, on 9 April 2019.",
+    "facts": ["150 sessions, 123 of them working sessions", "130 participants on site, 28 remote", "Biggest tracks: OWASP SAMM (28), OWASP MSTG (22)"],
+    "url": "https://2019.open-security-summit.org/",
+    "url_label": "2019 site"
+  },
+  {
+    "when": "Jun 2020",
+    "name": "Open Security Summit 2020",
+    "where": "Fully online",
+    "kind": "online",
+    "summary": "The pandemic moved the summit online: two training weeks from 1 June, then the summit week of 15–19 June, with new tracks on Covid apps, Cynefin and Team Topologies.",
+    "facts": ["Summit week: 60 sessions, 516 attendees, 62 speakers", "Training weeks: 50 sessions, 722 attendees"],
+    "url": "https://2020.open-security-summit.org/",
+    "url_label": "2020 site"
+  },
+  {
+    "when": "Oct 2020 – Dec 2024",
+    "name": "The mini-summits",
+    "where": "Online · free to attend",
+    "kind": "online",
+    "summary": "Online summit weeks every one to two months, 27 of them: threat modelling, DevSecOps, governance, Wardley maps, and from 2023 some of the first sessions on generative AI and agents for security teams.",
+    "facts": ["About 340 session pages from Oct 2020 to Dec 2024", "219 recorded videos linked from the site", "241 people organised sessions"],
+    "url": "https://open-security-summit.org/",
+    "url_label": "open-security-summit.org"
+  },
+  {
+    "when": "2025",
+    "name": "The pause",
+    "where": "",
+    "kind": "online",
+    "summary": "A March 2025 mini-summit was announced and never ran. The website had grown too complex to change quickly, and there was nobody to follow up. [Why](/articles/when-the-website-stalled-the-summit.html)."
+  },
+  {
+    "when": "2026",
+    "name": "The restart",
+    "where": "London, in person · and online",
+    "kind": "next",
+    "summary": "In-person events in London, remote working sessions, a programme of hosted open projects starting with Agent Behaviour Policies, and this site. [What is next](/events/)."
+  }
+]

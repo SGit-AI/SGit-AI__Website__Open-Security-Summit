@@ -5,7 +5,7 @@
 > remote sessions, and a programme of hosted open projects. This site is where the next
 > version of open-security-summit.org is built in the open.
 
-Site version: v0.1.0. Run by Open Security Summit CIC (UK, company 11935098).
+Site version: v0.1.1. Run by Open Security Summit CIC (UK, company 11935098).
 Content CC BY 4.0, code Apache 2.0. Source: https://github.com/SGit-AI/SGit-AI__Website__Open-Security-Summit
 
 ## The honest sentence
@@ -19,9 +19,12 @@ hosted project is a PROPOSAL, for discussion and legal review. /about/#status is
 ## Pages
 
 - [About this site](https://open-security-summit.sgit.ai/about/): What open-security-summit.sgit.ai is, how it relates to open-security-summit.org, what runs today and what does not, and the rules this site keeps so it does not drift into the technical debt that stalled the last one.
+- [Archive](https://open-security-summit.sgit.ai/archive/): A first selection from the Open Security Summit's archive, 2018 to 2024: keynotes, working sessions and recordings, with links to the session pages and videos.
 - [Articles](https://open-security-summit.sgit.ai/articles/): Articles about the Open Security Summit: its history, why it stalled, and what it is doing next.
 - [Events](https://open-security-summit.sgit.ai/events/): The Open Security Summit restarts with two formats: in-person events in London and remote working sessions. Dates are not set yet; this page lists what is planned and how to take part.
 - [Fund the summit](https://open-security-summit.sgit.ai/fund/): Why the Open Security Summit needs funding now, what the money pays for, and the rule that sponsorship buys no content.
+- [History](https://open-security-summit.sgit.ai/history/): The history of the Open Security Summit and the OWASP summits before it: 2008 and 2011 in Portugal, three in-person weeks at Woburn Forest from 2017 to 2019, online from 2020, the pause in 2025, and the restart in 2026.
 - [Open Security Summit](https://open-security-summit.sgit.ai/): The Open Security Summit: working sessions where developers and security people work together and every participant is a presenter. Restarting in 2026 with events in London, remote sessions, and a home for open security projects.
 - [Participate](https://open-security-summit.sgit.ai/participate/): How the Open Security Summit works: working sessions, not talks; every participant is a presenter; outcomes written down; and, new in this version, a page and a follow-up for every participant.
 - [Hosted projects](https://open-security-summit.sgit.ai/projects/): The Open Security Summit CIC proposes to host open projects that need an independent home, starting with Agent Behaviour Policies. What hosting means, what it does not, and how a project can apply.
+- [When the website stalled the summit: what technical debt did to the Open Security Summit, and why now is the time to restart it](https://open-security-summit.sgit.ai/articles/when-the-website-stalled-the-summit.html): The Open Security Summit has some of the best material in application security, and it stalled. Not for lack of ideas or people, but because its website drifted into complexity and technical debt that nobody had the time to refactor, and because there was never the capacity to follow up. The numbers from its repositories, what was lost, and why, with agents now able to do the follow-up, it is time to restart it, in London and online.

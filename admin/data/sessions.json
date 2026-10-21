@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "year": 2018,
+    "title": "Crossing the river by feeling the stones",
+    "track": "Keynote",
+    "people": "Simon Wardley",
+    "url": "https://2018.open-security-summit.org/tracks/keynotes/crossing-the-river-by-feeling-the-stones/"
+  },
+  {
+    "year": 2018,
+    "title": "A seat at the table",
+    "track": "Keynote",
+    "people": "Adam Shostack",
+    "url": "https://2018.open-security-summit.org/tracks/keynotes/a-seat-at-the-table/"
+  },
+  {
+    "year": 2018,
+    "title": "InSecurity",
+    "track": "Keynote",
+    "people": "Jane Frankland",
+    "url": "https://2018.open-security-summit.org/tracks/keynotes/insecurity/"
+  },
+  {
+    "year": 2018,
+    "title": "Thinking in Graphs",
+    "track": "Keynote",
+    "people": "Dinis Cruz",
+    "url": "https://2018.open-security-summit.org/tracks/keynotes/thinking-in-graphs/"
+  },
+  {
+    "year": 2019,
+    "title": "OWASP SAMM v2",
+    "track": "Keynote",
+    "people": "Bart De Win, Sebastien Deleersnyder",
+    "url": "https://2019.open-security-summit.org/tracks/keynotes/kn-bart-seba-samm/",
+    "note": "The SAMM track ran 28 sessions that week."
+  },
+  {
+    "year": 2019,
+    "title": "The Cynefin framework",
+    "track": "Keynote",
+    "people": "Dave Snowden",
+    "url": "https://2019.open-security-summit.org/tracks/keynotes/kn-dave-cynefin/"
+  },
+  {
+    "year": 2019,
+    "title": "OWASP Juice Shop",
+    "track": "Keynote",
+    "people": "Bjoern Kimminich",
+    "url": "https://2019.open-security-summit.org/tracks/keynotes/kn-bjorn-juiceshop/"
+  },
+  {
+    "year": 2019,
+    "title": "The Mobile Security Testing Guide (MSTG)",
+    "track": "Keynote",
+    "people": "Jeroen Willemsen",
+    "url": "https://2019.open-security-summit.org/tracks/keynotes/kn-jeroen-mstg/",
+    "note": "The MSTG was an outcome of the 2017 summit."
+  },
+  {
+    "year": 2020,
+    "title": "Keynote: Wardley Mapping",
+    "track": "Summit week",
+    "people": "Simon Wardley",
+    "video": "https://youtu.be/YESXU26LkRc"
+  },
+  {
+    "year": 2020,
+    "title": "Threat Mapping (using maps in cyber security)",
+    "track": "Summit week",
+    "people": "Simon Wardley, Petra Vukmirovic, Dinis Cruz",
+    "video": "https://youtu.be/9F3PuuBTu98"
+  },
+  {
+    "year": 2020,
+    "title": "Covid Safe Paths: Threat Modeling, part 2",
+    "track": "Training",
+    "people": "Dinis Cruz, Adam Leon Smith",
+    "url": "https://open-security-summit.org/sessions/2020/summits/may/training/week-1/covid/covid-safe-paths-threat-modeling-part-2/",
+    "video": "https://youtu.be/B4F0uFhi83g"
+  },
+  {
+    "year": 2020,
+    "title": "Embrace Secure Defaults, Block Anti-patterns, and Kill Bug Classes with Semgrep",
+    "track": "DevSecOps",
+    "people": "Clint Gibler",
+    "url": "https://open-security-summit.org/sessions/2020/mini-summits/dec/devsecops/what-is-semgrep-and-how-to-use-it/",
+    "video": "https://youtu.be/EIjoqwT53E4"
+  },
+  {
+    "year": 2021,
+    "title": "Agile Threat Modeling with Open-Source Tools",
+    "track": "Threat Modeling",
+    "people": "Christian Schneider",
+    "url": "https://open-security-summit.org/sessions/2021/mini-summits/nov/threat-modeling/agile_threat_modeling_with_open_source_tools/",
+    "video": "https://youtu.be/7JAY7wrv9oA"
+  },
+  {
+    "year": 2022,
+    "title": "A workshop on DAST and how to put it into your pipeline",
+    "track": "DevSecOps",
+    "people": "Tanya Janca",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/may/devsecops/a-workshop-on-dast-and-how-to-put-it-into-your-pipeline/",
+    "video": "https://youtu.be/NxSspDGZunk"
+  },
+  {
+    "year": 2022,
+    "title": "AMA with Adam Shostack",
+    "track": "Threat Modeling",
+    "people": "Adam Shostack, Izar Tarandach",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/jul/threat-modeling/ama-with-adam-shostack/",
+    "video": "https://youtu.be/DsXQUpoQOiQ"
+  },
+  {
+    "year": 2022,
+    "title": "Why Wardley Maps changed how I think",
+    "track": "Wardley Maps",
+    "people": "Dinis Cruz",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/jul/wardley-maps/why-wardley-maps-changed-how-i-think/",
+    "video": "https://youtu.be/6gpgnYo6M14"
+  },
+  {
+    "year": 2022,
+    "title": "AMA with Gary McGraw",
+    "track": "Governance",
+    "people": "Gary McGraw, Izar Tarandach",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/sep/governance/ama-with-mcgraw/",
+    "video": "https://youtu.be/Qg5qYTOg2EU"
+  },
+  {
+    "year": 2022,
+    "title": "Data Culture",
+    "track": "Wardley Maps",
+    "people": "Dinis Cruz, Tudor Girba, Tariq Rashid, Mark Craddock, Aleksandar Simovic",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/sep/wardley-maps/data-culture/",
+    "video": "https://youtu.be/FcaUN4w2TdY"
+  },
+  {
+    "year": 2022,
+    "title": "Women in Cyber Security: personal experiences and how to be an ally",
+    "track": "Governance",
+    "people": "Ashley Burke, Karla Reffold, Melissa Ryan, Jana Caniglia",
+    "url": "https://open-security-summit.org/sessions/2022/mini-summits/dec/governance/women-in-cyber-security-personal-experiences-and-how-to-be-an-ally/",
+    "video": "https://youtu.be/Ew8f_G9TY3c"
+  },
+  {
+    "year": 2023,
+    "title": "ChatGPT for Security Teams: What and How",
+    "track": "ChatGPT",
+    "people": "Dinis Cruz",
+    "url": "https://open-security-summit.org/sessions/2023/mini-summits/jun/chatgpt/chatgpt_how_to_use_it/",
+    "video": "https://youtu.be/mNaGEwex0mc",
+    "note": "Early 2023: one of the summit's first sessions on generative AI."
+  },
+  {
+    "year": 2023,
+    "title": "How GenAI Agents will Dramatically Change our Industry",
+    "track": "DevSecOps",
+    "people": "Dinis Cruz",
+    "url": "https://open-security-summit.org/sessions/2023/mini-summits/oct/devsecops/how-genai-agents-will-dramatically-change-our-industry/",
+    "video": "https://youtu.be/8EUZgEPkMyU"
+  },
+  {
+    "year": 2023,
+    "title": "Mapping Threat Intelligence: Enhancing Situational Awareness (panel)",
+    "track": "Governance",
+    "people": "Dinis Cruz, Marius Poskus, Simon Wardley",
+    "url": "https://open-security-summit.org/sessions/2023/mini-summits/oct/wardley-maps/mapping-threat-intelligence-enhancing-situational-awareness/",
+    "video": "https://youtu.be/pw7PImph7pk"
+  },
+  {
+    "year": 2024,
+    "title": "AI-Driven Threat Modelling with STRIDE GPT",
+    "track": "Threat Modeling",
+    "people": "Matthew Adams",
+    "url": "https://open-security-summit.org/sessions/2024/mini-summits/jan/threat-modeling/ai-driven-threat-modelling-with-stride-gpt/",
+    "video": "https://youtu.be/_eOcezCeM1M"
+  },
+  {
+    "year": 2024,
+    "title": "Attack Surface Mapping",
+    "track": "Governance",
+    "people": "Simon Wardley, Dinis Cruz, Tariq Rashid, Krzysztof Daniel, Tudor Girba",
+    "url": "https://open-security-summit.org/sessions/2024/mini-summits/jun/governance/attack-surface-mapping/",
+    "video": "https://youtube.com/live/aYh60wq4LXg"
+  },
+  {
+    "year": 2024,
+    "title": "Mental Health in Cyber Security",
+    "track": "Governance",
+    "people": "Sarb Sembhi, Dr Daniel Shore, Kashyap Thimmaraju, Rebecca McKeown, Peter Olivier, Paul Simms",
+    "url": "https://open-security-summit.org/sessions/2024/mini-summits/jun/governance/mental-health-in-cyber-security/",
+    "video": "https://youtube.com/live/ldkH3_1Lxqs"
+  },
+  {
+    "year": 2024,
+    "title": "Use GenAI to Understand and Transform Content, Not to Create It",
+    "track": "GenAI",
+    "people": "Dinis Cruz",
+    "url": "https://open-security-summit.org/sessions/2024/mini-summits/sep/genai/use-genai-to-understand-and-transform-content-not-to-create-it/",
+    "video": "https://youtu.be/vf7QxGPJBIw"
+  },
+  {
+    "year": 2024,
+    "title": "Threat Modeling Kata VI",
+    "track": "Threat Modeling",
+    "people": "Luis Servin",
+    "url": "https://open-security-summit.org/sessions/2024/mini-summits/dec/threat-modeling/threat-modeling-kata-vi/",
+    "video": "https://youtu.be/2kbRBaLYjgM",
+    "note": "The last of a series of six katas, 2023 to 2024."
+  }
+]

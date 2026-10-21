@@ -1,7 +1,7 @@
 ---
 path: fund/index.html
 title: Fund the summit
-heading: The capability is here. <em>It needs funding.</em>
+heading: The capability is here. *It needs funding.*
 kicker: Sponsor
 summary: Why the Open Security Summit needs funding now, what the money pays for, and the rule that sponsorship buys no content.
 lead: For years the summit was kept alive by one person paying for it, at a cost, without the people to follow up on what it produced. Today the follow-up can be done. What is missing is the money to run the events.

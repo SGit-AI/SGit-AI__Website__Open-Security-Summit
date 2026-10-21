@@ -1,7 +1,7 @@
 ---
 path: index.html
 title: Open Security Summit
-heading: Every participant <em>is a presenter.</em>
+heading: Every participant *is a presenter.*
 kicker: Open Security Summit · restarting in 2026
 summary: The Open Security Summit: working sessions where developers and security people work together and every participant is a presenter. Restarting in 2026 with events in London, remote sessions, and a home for open security projects.
 lead: The Open Security Summit brings developers and security people together to work, not to listen. In person from 2017 to 2019, online from 2020, and now restarting, with the follow-up it never had the people to do.

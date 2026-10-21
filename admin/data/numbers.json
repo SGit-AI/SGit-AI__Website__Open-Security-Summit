@@ -1,1 +1,8 @@
-[]
+[
+  {"value": "2017", "label": "first summit week, Woburn Forest"},
+  {"value": "3", "label": "in-person summit weeks, 2017–2019"},
+  {"value": "27", "label": "online mini-summits, 2020–2024"},
+  {"value": "1,000+", "label": "session pages across the summit sites"},
+  {"value": "219", "label": "recorded sessions linked from open-security-summit.org"},
+  {"value": "241", "label": "people who organised a session online"}
+]

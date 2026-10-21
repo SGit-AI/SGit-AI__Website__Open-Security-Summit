@@ -1,7 +1,7 @@
 ---
 path: projects/index.html
 title: Hosted projects
-heading: A neutral home <em>for open security projects.</em>
+heading: A neutral home *for open security projects.*
 kicker: Hosted projects
 summary: The Open Security Summit CIC proposes to host open projects that need an independent home, starting with Agent Behaviour Policies. What hosting means, what it does not, and how a project can apply.
 lead: Some open projects need a home that is not the company that started them. The Open Security Summit CIC proposes to be that home, with a light programme of hosted projects. The first is Agent Behaviour Policies.

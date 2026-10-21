@@ -1,7 +1,7 @@
 ---
 path: about/index.html
 title: About this site
-heading: The next version of open-security-summit.org, <em>built in the open.</em>
+heading: The next version of open-security-summit.org, *built in the open.*
 kicker: About this site
 summary: What open-security-summit.sgit.ai is, how it relates to open-security-summit.org, what runs today and what does not, and the rules this site keeps so it does not drift into the technical debt that stalled the last one.
 lead: This is where the next version of the Open Security Summit's website is being built. The official site stays at open-security-summit.org until this one is ready to replace it.
@@ -9,7 +9,7 @@ lead: This is where the next version of the Open Security Summit's website is be
 
 ## What runs today {#status}
 
-The honest line, for v0.1.0:
+The honest line, as of this release:
 
 - **Runs:** these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; this site's build and its gate.
 - **Planned, not running:** participant pages; the full archive read into data; follow-ups after sessions; personalised paths; event registration.

@@ -1,7 +1,7 @@
 ---
 path: participate/index.html
 title: Participate
-heading: There are no attendees. <em>Everyone is a participant.</em>
+heading: There are no attendees. *Everyone is a participant.*
 kicker: How the summit works
 summary: How the Open Security Summit works: working sessions, not talks; every participant is a presenter; outcomes written down; and, new in this version, a page and a follow-up for every participant.
 lead: The summit's one idea, from the first in-person week in 2017 to today, is that the people in the room do the work. Sessions are working sessions. Everyone who comes is expected to contribute, and what a session produces is written down.

@@ -1,7 +1,7 @@
 ---
 path: events/index.html
 title: Events
-heading: What is next: <em>London, in person, and sessions online.</em>
+heading: What is next: *London, in person, and sessions online.*
 kicker: Events
 summary: The Open Security Summit restarts with two formats: in-person events in London and remote working sessions. Dates are not set yet; this page lists what is planned and how to take part.
 lead: Two things are planned. In-person events in London, and remote working sessions that are shorter and more condensed than the old mini-summits. No dates are set yet; when they are, they will be here first.
