@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Agent Behaviour Policies",
+    "status": "Proposed · first hosted project",
+    "status_key": "proposed",
+    "summary": "A written description, for one agent in one deployment, of everything it can reach, what it was authorised to do, the gap between the two, and what stands in the way. Originated at RiskMandate, already open under CC BY 4.0 and Apache 2.0. RiskMandate stays a founding contributor and a commercial implementer, on the same terms as anyone else.",
+    "links": [
+      ["abp.sgit.ai", "https://abp.sgit.ai/"],
+      ["The proposal", "https://newsroom.sgit.ai/articles/agent-behaviour-policies-move-to-the-open-security-summit.html"]
+    ]
+  },
+  {
+    "name": "Your project",
+    "status": "Open · applications",
+    "status_key": "planned",
+    "summary": "An open security project that wants an independent hub, away from whatever company or environment it grew up in. The programme is being set up with the first project; tell us about yours now.",
+    "links": [
+      ["How to apply", "/projects/#apply"]
+    ]
+  }
+]

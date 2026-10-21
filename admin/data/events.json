@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Open Security Summit, London",
+    "format": "In person",
+    "when": "Dates to be announced",
+    "status": "planned",
+    "summary": "Working sessions in a room in London. Smaller than the week-long summits of 2017 to 2019, with the same rule: everyone who comes takes part. Looking for venues and sponsors.",
+    "link": "/fund/",
+    "link_label": "Help fund it"
+  },
+  {
+    "title": "Remote working sessions",
+    "format": "Online",
+    "when": "Starting soon",
+    "status": "planned",
+    "summary": "Short, condensed sessions online, each with an owner, a topic and a written outcome, sent afterwards to the people who took part.",
+    "link": "/participate/#how",
+    "link_label": "Propose a session"
+  },
+  {
+    "title": "Agent Behaviour Policies, in the open",
+    "format": "Hosted project",
+    "when": "With the first charter",
+    "status": "planned",
+    "summary": "Working sessions for the first hosted project: the charter, the steering group, and the first public releases.",
+    "link": "/projects/",
+    "link_label": "Hosted projects"
+  }
+]

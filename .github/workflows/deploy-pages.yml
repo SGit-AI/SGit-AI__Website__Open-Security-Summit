@@ -1,0 +1,54 @@
+# Deploys open-security-summit.sgit.ai (this repo's working tree) to GitHub Pages.
+#
+#   1. validate — admin/build/validate.py: the build is current, links resolve, every page
+#                 has a title, description and canonical on the CNAME's domain, the version
+#                 is on every page, no key-like strings. Runs on pull requests too.
+#   2. deploy   — on a push to dev or main, publishes the tree. Never when validation failed.
+name: deploy-pages
+on:
+  push:
+    branches: [dev, main]
+  pull_request:
+    branches: [dev, main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: ${{ github.event_name == 'pull_request' && format('pages-pr-{0}', github.event.pull_request.number) || 'pages' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate the site
+        run: python3 admin/build/validate.py
+
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: [validate]
+    if: github.event_name != 'pull_request'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble site artifact
+        run: |
+          mkdir -p /tmp/site
+          rsync -a ./ /tmp/site/ --exclude '.git' --exclude '.github' --exclude 'admin'
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/site
+      - id: deployment
+        uses: actions/deploy-pages@v4

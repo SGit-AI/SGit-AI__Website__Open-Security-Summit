@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About this site · Open Security Summit</title>
+<meta name="description" content="What open-security-summit.sgit.ai is, how it relates to open-security-summit.org, what runs today and what does not, and the rules this site keeps so it does not drift into the technical debt that stalled the last one.">
+<link rel="canonical" href="https://open-security-summit.sgit.ai/about/">
+<meta property="og:title" content="About this site · Open Security Summit">
+<meta property="og:description" content="What open-security-summit.sgit.ai is, how it relates to open-security-summit.org, what runs today and what does not, and the rules this site keeps so it does not drift into the technical debt that stalled the last one.">
+<meta property="og:url" content="https://open-security-summit.sgit.ai/about/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+<script src="/assets/theme.js"></script>
+</head>
+<body>
+<header class="bar">
+  <a class="brand" href="/"><span class="mark" aria-hidden="true">OSS</span><span>Open Security Summit</span></a>
+  <nav aria-label="Site"><a href="/">Home</a><a href="/events/">Events</a><a href="/participate/">Participate</a><a href="/projects/">Projects</a><a href="/archive/">Archive</a><a href="/history/">History</a><a href="/articles/">Articles</a></nav>
+  <button class="theme" type="button" aria-label="Switch light or dark">◐</button>
+</header>
+<main>
+<section class="hero"><p class="kicker">About this site</p><h1>The next version of open-security-summit.org, &lt;em&gt;built in the open.&lt;/em&gt;</h1><p class="lead">This is where the next version of the Open Security Summit's website is being built. The official site stays at open-security-summit.org until this one is ready to replace it.</p></section><article class="prose"><h2 id="status">What runs today</h2>
+<p>The honest line, for v0.1.0:</p>
+<ul><li><strong>Runs:</strong> these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; this site's build and its gate.</li><li><strong>Planned, not running:</strong> participant pages; the full archive read into data; follow-ups after sessions; personalised paths; event registration.</li><li><strong>Not decided:</strong> dates for London and for the remote sessions.</li></ul>
+<h2 id="rules">The rules this site keeps</h2>
+<p>The last website was a Hugo site that did a lot that was new, and then stalled under its own exceptions (the story is in <a href="/articles/when-the-website-stalled-the-summit.html">the first article</a>). These rules are the lesson, written down so an agent or a person working here can keep them:</p>
+<ol><li><strong>One template.</strong> Every page uses the same one. A page that seems to need its own is a sign the data is missing a field.</li><li><strong>Data in JSON, prose in Markdown.</strong> Summits, sessions, events and projects are records in <code>admin/data/</code>. Pages pull them in with a <code>!block</code> line.</li><li><strong>No per-year exceptions.</strong> A new summit is new data, never new code.</li><li><strong>Stdlib only.</strong> The build is two short Python files with no dependencies to install, update or break.</li><li><strong>The built pages are committed and never edited by hand.</strong> The gate rebuilds and fails if anything changed.</li><li><strong>Refactor in the same change.</strong> When a new need does not fit, the model is changed then, not worked around.</li><li><strong>Every push is a release.</strong> The version is in <code>admin/build/version.txt</code> and on every page.</li></ol>
+<h2 id="how">How it is made</h2>
+<p>Pages are written from Dinis Cruz's voice memos and the summit's own records, by an agent working on the site, with the editorial responsibility his. The source is <a href="https://github.com/SGit-AI/SGit-AI__Website__Open-Security-Summit">on GitHub</a>, Apache 2.0 for the code and CC BY 4.0 for the content. It is one of the sites of the <a href="https://sgit.ai/">sgit.ai</a> family, alongside the <a href="https://newsroom.sgit.ai/">newsroom</a>.</p>
+<h2 id="who">Who runs the summit</h2>
+<p>The Open Security Summit is run by Open Security Summit CIC, a UK community interest company, <a href="https://find-and-update.company-information.service.gov.uk/company/11935098">company 11935098</a>, incorporated on 9 April 2019. Its director is Dinis Cruz.</p></article>
+</main>
+<footer>
+  <p><strong>Open Security Summit CIC</strong>, a UK community interest company (no. 11935098, since 9 April 2019).
+  This is <code>open-security-summit.sgit.ai</code>, where the next version of
+  <a href="https://open-security-summit.org/">open-security-summit.org</a> is built in the open.</p>
+  <p>Content CC BY 4.0, code Apache 2.0 · <a href="https://github.com/SGit-AI/SGit-AI__Website__Open-Security-Summit">source</a> ·
+  <a href="/about/">about this site</a> · <a href="/llms.txt">llms.txt</a> · site v0.1.0</p>
+</footer>
+</body>
+</html>
