@@ -28,7 +28,11 @@
     "where": "Woburn Forest Center Parcs, England · in person",
     "kind": "inperson",
     "summary": "The first Open Security Summit: the 2017 format, broadened from OWASP to security in general. Keynotes from Adam Shostack, Simon Wardley, Jane Frankland and others, and a one-day summit on 3 July.",
-    "facts": ["About 300 sessions on the site, 129 of them working sessions", "143 participants on site, 69 remote", "194 outcome pages"],
+    "facts": [
+      "About 300 sessions on the site, 129 of them working sessions",
+      "143 participants on site, 69 remote",
+      "194 outcome pages"
+    ],
     "url": "https://2018.open-security-summit.org/",
     "url_label": "2018 site"
   },
@@ -38,7 +42,11 @@
     "where": "Woburn Forest Center Parcs, England · in person",
     "kind": "inperson",
     "summary": "The second week at Woburn, with keynotes on SAMM v2, the MSTG, Juice Shop, ZAP, Cynefin and Wardley maps. The year Open Security Summit CIC was incorporated, on 9 April 2019.",
-    "facts": ["150 sessions, 123 of them working sessions", "130 participants on site, 28 remote", "Biggest tracks: OWASP SAMM (28), OWASP MSTG (22)"],
+    "facts": [
+      "150 sessions, 123 of them working sessions",
+      "130 participants on site, 28 remote",
+      "Biggest tracks: OWASP SAMM (28), OWASP MSTG (22)"
+    ],
     "url": "https://2019.open-security-summit.org/",
     "url_label": "2019 site"
   },
@@ -48,7 +56,10 @@
     "where": "Fully online",
     "kind": "online",
     "summary": "The pandemic moved the summit online: two training weeks from 1 June, then the summit week of 15–19 June, with new tracks on Covid apps, Cynefin and Team Topologies.",
-    "facts": ["Summit week: 60 sessions, 516 attendees, 62 speakers", "Training weeks: 50 sessions, 722 attendees"],
+    "facts": [
+      "Summit week: 60 sessions, 516 attendees, 62 speakers",
+      "Training weeks: 50 sessions, 722 attendees"
+    ],
     "url": "https://2020.open-security-summit.org/",
     "url_label": "2020 site"
   },
@@ -58,7 +69,11 @@
     "where": "Online · free to attend",
     "kind": "online",
     "summary": "Online summit weeks every one to two months, 27 of them: threat modelling, DevSecOps, governance, Wardley maps, and from 2023 some of the first sessions on generative AI and agents for security teams.",
-    "facts": ["About 340 session pages from Oct 2020 to Dec 2024", "219 recorded videos linked from the site", "241 people organised sessions"],
+    "facts": [
+      "About 340 session pages from Oct 2020 to Dec 2024",
+      "219 recorded videos linked from the site",
+      "241 people organised sessions"
+    ],
     "url": "https://open-security-summit.org/",
     "url_label": "open-security-summit.org"
   },
@@ -72,8 +87,8 @@
   {
     "when": "2026",
     "name": "The restart",
-    "where": "London, in person · and online",
+    "where": "Online, then London in person",
     "kind": "next",
-    "summary": "In-person events in London, remote working sessions, a programme of hosted open projects starting with Agent Behaviour Policies, and this site. [What is next](/events/)."
+    "summary": "A regular run of short working sessions, called when the participants can make them, starting with [php2shell](/sessions/php2shell/); in-person events in London; a programme of hosted open projects starting with Agent Behaviour Policies; and this site. [What is next](/events/)."
   }
 ]

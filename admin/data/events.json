@@ -1,5 +1,23 @@
 [
   {
+    "title": "php2shell: the PHP flaws of October 2026",
+    "format": "Working session · online",
+    "when": "Date to follow the participants",
+    "status": "planned",
+    "summary": "The first of the new sessions: the disclosure that broke, AI-assisted discovery, the agencies' offline advice and the unsupported PHP versions, starting from the newsroom's evidence.",
+    "link": "/sessions/php2shell/",
+    "link_label": "The session"
+  },
+  {
+    "title": "More working sessions",
+    "format": "Online",
+    "when": "A regular run",
+    "status": "planned",
+    "summary": "Short sessions, each called when the people who need to be in it can make it, with a page before and an outcome and a follow-up after.",
+    "link": "/participate/#how",
+    "link_label": "Propose a session"
+  },
+  {
     "title": "Open Security Summit, London",
     "format": "In person",
     "when": "Dates to be announced",
@@ -7,15 +25,6 @@
     "summary": "Working sessions in a room in London. Smaller than the week-long summits of 2017 to 2019, with the same rule: everyone who comes takes part. Looking for venues and sponsors.",
     "link": "/fund/",
     "link_label": "Help fund it"
-  },
-  {
-    "title": "Remote working sessions",
-    "format": "Online",
-    "when": "Starting soon",
-    "status": "planned",
-    "summary": "Short, condensed sessions online, each with an owner, a topic and a written outcome, sent afterwards to the people who took part.",
-    "link": "/participate/#how",
-    "link_label": "Propose a session"
   },
   {
     "title": "Agent Behaviour Policies, in the open",

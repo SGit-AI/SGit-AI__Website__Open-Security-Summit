@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RiskMandate",
+    "url": "https://riskmandate.ai/",
+    "summary": "Give agents access, not free rein: Agent Behaviour Policies that write down what an AI agent can really reach, what it was authorised to do, and the gap between the two. A founding contributor to the first hosted project."
+  },
+  {
+    "name": "The Cyber Boardroom",
+    "url": "https://thecyberboardroom.com/",
+    "summary": "The one-stop shop boards of directors rely on for their cyber readiness. It runs RiskMandate today."
+  },
+  {
+    "name": "SGit.ai",
+    "url": "https://sgit.ai/",
+    "summary": "The encrypted git for humans and AI agents: vaults versioned like git, handed over with a single read key. This site and the evidence behind the summit's sessions are built on it."
+  }
+]

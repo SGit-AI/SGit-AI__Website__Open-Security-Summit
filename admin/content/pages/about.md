@@ -11,9 +11,9 @@ lead: This is where the next version of the Open Security Summit's website is be
 
 The honest line, as of this release:
 
-- **Runs:** these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; this site's build and its gate.
+- **Runs:** these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; the page for the first new working session, php2shell; the first sponsors; this site's build and its gate.
 - **Planned, not running:** participant pages; the full archive read into data; follow-ups after sessions; personalised paths; event registration.
-- **Not decided:** dates for London and for the remote sessions.
+- **Not decided:** dates for the php2shell session, the sessions after it, and London.
 
 ## The rules this site keeps {#rules}
 

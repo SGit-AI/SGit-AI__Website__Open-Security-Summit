@@ -13,7 +13,7 @@ lead: The Open Security Summit brings developers and security people together to
 
 ## What is next {#next}
 
-Three things are starting: in-person events in London, remote working sessions, and a programme of hosted open projects.
+Three things are starting: short working sessions, called when the participants can make them, the first on the php2shell PHP flaws; in-person events in London; and a programme of hosted open projects.
 
 !block events
 
@@ -26,6 +26,12 @@ What has changed is that the follow-up can now be done. An agent can read the re
 ## A home for open projects {#projects}
 
 !block projects
+
+## Sponsors {#sponsors}
+
+!block sponsors
+
+[Sponsor the summit](/fund/): a session, a series or the London events. Sponsors never buy content.
 
 ## From the articles {#articles}
 

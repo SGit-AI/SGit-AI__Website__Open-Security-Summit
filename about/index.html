@@ -22,7 +22,7 @@
 <main>
 <section class="hero"><p class="kicker">About this site</p><h1>The next version of open-security-summit.org, <em>built in the open.</em></h1><p class="lead">This is where the next version of the Open Security Summit's website is being built. The official site stays at open-security-summit.org until this one is ready to replace it.</p></section><article class="prose"><h2 id="status">What runs today</h2>
 <p>The honest line, as of this release:</p>
-<ul><li><strong>Runs:</strong> these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; this site's build and its gate.</li><li><strong>Planned, not running:</strong> participant pages; the full archive read into data; follow-ups after sessions; personalised paths; event registration.</li><li><strong>Not decided:</strong> dates for London and for the remote sessions.</li></ul>
+<ul><li><strong>Runs:</strong> these pages; the history of the summits; a first cut of the archive, with links to the session pages and recordings on open-security-summit.org; the hosted-projects proposal; the page for the first new working session, php2shell; the first sponsors; this site's build and its gate.</li><li><strong>Planned, not running:</strong> participant pages; the full archive read into data; follow-ups after sessions; personalised paths; event registration.</li><li><strong>Not decided:</strong> dates for the php2shell session, the sessions after it, and London.</li></ul>
 <h2 id="rules">The rules this site keeps</h2>
 <p>The last website was a Hugo site that did a lot that was new, and then stalled under its own exceptions (the story is in <a href="/articles/when-the-website-stalled-the-summit.html">the first article</a>). These rules are the lesson, written down so an agent or a person working here can keep them:</p>
 <ol><li><strong>One template.</strong> Every page uses the same one. A page that seems to need its own is a sign the data is missing a field.</li><li><strong>Data in JSON, prose in Markdown.</strong> Summits, sessions, events and projects are records in <code>admin/data/</code>. Pages pull them in with a <code>!block</code> line.</li><li><strong>No per-year exceptions.</strong> A new summit is new data, never new code.</li><li><strong>Stdlib only.</strong> The build is two short Python files with no dependencies to install, update or break.</li><li><strong>The built pages are committed and never edited by hand.</strong> The gate rebuilds and fails if anything changed.</li><li><strong>Refactor in the same change.</strong> When a new need does not fit, the model is changed then, not worked around.</li><li><strong>Every push is a release.</strong> The version is in <code>admin/build/version.txt</code> and on every page.</li></ol>
@@ -36,7 +36,7 @@
   This is <code>open-security-summit.sgit.ai</code>, where the next version of
   <a href="https://open-security-summit.org/">open-security-summit.org</a> is built in the open.</p>
   <p>Content CC BY 4.0, code Apache 2.0 · <a href="https://github.com/SGit-AI/SGit-AI__Website__Open-Security-Summit">source</a> ·
-  <a href="/about/">about this site</a> · <a href="/llms.txt">llms.txt</a> · site v0.1.1</p>
+  <a href="/about/">about this site</a> · <a href="/llms.txt">llms.txt</a> · site v0.1.2</p>
 </footer>
 </body>
 </html>
